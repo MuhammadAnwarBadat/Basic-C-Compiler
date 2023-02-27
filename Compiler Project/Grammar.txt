@@ -1,0 +1,41 @@
+program ::= block
+
+block ::= '{' statement* '}'
+
+statement ::= assignment_statement
+           | print_statement
+           | read_statement
+           | while_statement
+           | if_statement
+
+assignment_statement ::= identifier '=' expression ';'
+
+print_statement ::= 'print' expression ';'
+
+read_statement ::= 'read_int' identifier ';'
+
+while_statement ::= 'while' '(' expression ')' block
+
+if_statement ::= 'if' '(' expression ')' block ('else' block)?
+
+expression ::= equality_expression
+
+equality_expression ::= relational_expression ('==' relational_expression | '!=' relational_expression)*
+
+relational_expression ::= additive_expression ('<' additive_expression | '>' additive_expression | '<=' additive_expression | '>=' additive_expression)*
+
+additive_expression ::= multiplicative_expression ('+' multiplicative_expression | '-' multiplicative_expression)*
+
+multiplicative_expression ::= unary_expression ('*' unary_expression | '/' unary_expression)*
+
+unary_expression ::= '-' unary_expression
+                  | primary_expression
+
+primary_expression ::= identifier
+                    | integer_literal
+                    | '(' expression ')'
+
+identifier ::= [a-zA-Z][a-zA-Z0-9]*
+
+integer_literal ::= [0-9]+
+``

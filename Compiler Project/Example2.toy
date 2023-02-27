@@ -1,0 +1,7 @@
+{
+  print "Enter a number:";
+  int x;
+  x = read_int();
+  print "The number you entered is:";
+  print x;
+}
