@@ -10,9 +10,9 @@ This README file provides a step-by-step guide on how to install and use the com
 # Prerequisites
 The following are the tools that are required to run the compiler, such as:
 
-Bison (https://drive.google.com/file/d/1r6dyIJFf486e7lmraXt4tw9s5ARWNoTe/view?usp=drive_web)
-Flex (https://drive.google.com/file/d/1qqgC7G4NFKhqV-OzBxSxaJ0D0XhHXfHS/view?usp=drive_web)
-GNU/Yacc/MinGW (https://drive.google.com/file/d/13kUwWkxHGggRrkqdewAVq4U5q4MN3ek1/view?usp=drive_web)
+Bison (https://drive.google.com/file/d/1r6dyIJFf486e7lmraXt4tw9s5ARWNoTe/view?usp=drive_web)<br>
+Flex (https://drive.google.com/file/d/1qqgC7G4NFKhqV-OzBxSxaJ0D0XhHXfHS/view?usp=drive_web)<br>
+GNU/Yacc/MinGW (https://drive.google.com/file/d/13kUwWkxHGggRrkqdewAVq4U5q4MN3ek1/view?usp=drive_web)<br>
 Embarcadero Dev-C++ (https://drive.google.com/file/d/1jQ6lmwC_5TGsUO01BG9ic5vhIVXqu7Mz/view?usp=drive_web)
 
 # Installation
@@ -41,7 +41,7 @@ Semantic analysis to check for errors.
 Code generation for x86 processors.
 
 # Credits
-Assistant Professor Syed Faisal Ali (Usman Institute of Technology)
+Assistant Professor Syed Faisal Ali (Usman Institute of Technology)<br>
 Muhammad Anwar (Student at Usman Institute of Technology)
 
 # License
@@ -49,7 +49,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 I encourage you to read the LICENSE file carefully before using or contributing to this project.
 
-#Contact
+# Contact
 mohamedanwar.ma@outlook.com
 
 # Conclusion
