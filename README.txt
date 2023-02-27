@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1MD2qYU4HqnMfyckWexjCGXZiXHGGEtHG/view
 #Getting Started
 This README file provides a step-by-step guide on how to install and use the compiler.
 
-#Prerequisites
+# Prerequisites
 The following are the tools that are required to run the compiler, such as:
 
 Bison (https://drive.google.com/file/d/1r6dyIJFf486e7lmraXt4tw9s5ARWNoTe/view?usp=drive_web)
