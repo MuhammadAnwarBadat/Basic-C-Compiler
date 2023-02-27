@@ -1,4 +1,4 @@
-<h1>Basic C++ Compiler using Yacc with Bison</h1>
+#Basic C++ Compiler using Yacc with Bison
 The project is the requirement for the undergrad course Compiler Construction - CS412 offered at the Usman Institute of Technology
 
 #Project video
