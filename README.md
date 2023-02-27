@@ -16,7 +16,7 @@ GNU/Yacc/MinGW (https://drive.google.com/file/d/13kUwWkxHGggRrkqdewAVq4U5q4MN3ek
 Embarcadero Dev-C++ (https://drive.google.com/file/d/1jQ6lmwC_5TGsUO01BG9ic5vhIVXqu7Mz/view?usp=drive_web)
 
 # Installation
-Download Flex, Bison, MinGW, and Embarcadero Dev-C++
+Download Flex, Bison, MinGW, and Embarcadero Dev-C++<br>
 How to setup and install MinGW (https://www.youtube.com/watch?v=WWTocqPrzMk)
 
 1. Download the project files from GitHub.
